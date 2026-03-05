@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @browser-vm
-- 👀 I’m interested in modern learning, proxies, and decentralized technology!
+- 👀 I’m interested in ML/AI, proxies, and decentralized technology!
 - 🌱 I’m currently learning Rust, Typescript, Wasp, and Node.js!
 - 💞️ I’m looking to collaborate on decentralized file sharing, modern learning projects, and online DAWs.
 - 📫 How to reach me: namelessonbandlab@outlook.com
